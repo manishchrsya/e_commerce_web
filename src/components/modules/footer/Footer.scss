@@ -1,0 +1,15 @@
+.footer-container{
+    height: 40vh;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 80px;
+}
+
+.footer-sub-boxes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
